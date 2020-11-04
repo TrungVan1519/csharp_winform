@@ -1,0 +1,11 @@
+F:\Storage\Winform\Unit1_TreeView\bin\Debug\Unit1_TreeView.exe.config
+F:\Storage\Winform\Unit1_TreeView\bin\Debug\Unit1_TreeView.exe
+F:\Storage\Winform\Unit1_TreeView\bin\Debug\Unit1_TreeView.pdb
+F:\Storage\Winform\Unit1_TreeView\obj\Debug\Unit1_TreeView.csprojAssemblyReference.cache
+F:\Storage\Winform\Unit1_TreeView\obj\Debug\Unit1_TreeView.frmBasic.resources
+F:\Storage\Winform\Unit1_TreeView\obj\Debug\Unit1_TreeView.Properties.Resources.resources
+F:\Storage\Winform\Unit1_TreeView\obj\Debug\Unit1_TreeView.csproj.GenerateResource.cache
+F:\Storage\Winform\Unit1_TreeView\obj\Debug\Unit1_TreeView.csproj.CoreCompileInputs.cache
+F:\Storage\Winform\Unit1_TreeView\obj\Debug\Unit1_TreeView.exe
+F:\Storage\Winform\Unit1_TreeView\obj\Debug\Unit1_TreeView.pdb
+F:\Storage\Winform\Unit1_TreeView\obj\Debug\Unit1_TreeView.frmAdvanced.resources

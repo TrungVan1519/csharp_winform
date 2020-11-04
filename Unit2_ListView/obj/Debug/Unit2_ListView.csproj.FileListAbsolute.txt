@@ -1,0 +1,11 @@
+F:\Storage\Winform\Unit2_ListView\bin\Debug\Unit2_ListView.exe.config
+F:\Storage\Winform\Unit2_ListView\bin\Debug\Unit2_ListView.exe
+F:\Storage\Winform\Unit2_ListView\bin\Debug\Unit2_ListView.pdb
+F:\Storage\Winform\Unit2_ListView\obj\Debug\Unit2_ListView.csprojAssemblyReference.cache
+F:\Storage\Winform\Unit2_ListView\obj\Debug\Unit2_ListView.frmAdvanced.resources
+F:\Storage\Winform\Unit2_ListView\obj\Debug\Unit2_ListView.frmBasic.resources
+F:\Storage\Winform\Unit2_ListView\obj\Debug\Unit2_ListView.Properties.Resources.resources
+F:\Storage\Winform\Unit2_ListView\obj\Debug\Unit2_ListView.csproj.GenerateResource.cache
+F:\Storage\Winform\Unit2_ListView\obj\Debug\Unit2_ListView.csproj.CoreCompileInputs.cache
+F:\Storage\Winform\Unit2_ListView\obj\Debug\Unit2_ListView.exe
+F:\Storage\Winform\Unit2_ListView\obj\Debug\Unit2_ListView.pdb
